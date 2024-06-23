@@ -26,9 +26,5 @@ Welcome to the Analyzing Job Market Data in Power BI project! This repository co
 </p>
 
 
-### Build Information
-- Power BI
-
-
 ### Noted
 - After download and open the file .pbix, if you want to use buttons to navigate between the pages, using <code> Ctrl + Left click </code> to click on those buttons.
